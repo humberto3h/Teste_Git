@@ -1,1 +1,19 @@
-Teste Git 
+Comandos Git
+
+git status
+
+git add "nome_do_arquivo"
+
+git add .  (Adiciona todos os arquivos)
+
+
+git config --global user.email "humberto3h@hotmail.com"
+
+git config --global user.name "humberto3h"
+
+git remote add origin https://github.com/humberto3h/Teste_Git.git
+
+git push
+
+git commit -m "Commit inicial"
+
